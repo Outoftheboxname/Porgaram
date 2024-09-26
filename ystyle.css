@@ -1,0 +1,79 @@
+
+body {
+    background-color: rgb(205, 175, 175);
+    overflow-x: hidden;
+}
+
+.voleip {
+    height: 200px;
+    width: 200px;
+
+}
+
+.mine {
+    height: 200px;
+    width: 200px;
+}
+
+.tlote {
+    font-size: 100px;
+}
+
+.stlote {
+    font-size: 50px;
+}
+
+.forger {
+    width: 250px;
+    height: 250px;
+}
+
+.stays {
+
+    background-color: rgb(125, 75, 75);
+
+}
+
+.but1 {
+    margin: 5px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+
+}
+
+a:hover {
+    background-color: rgb(179, 116, 116);
+    color: black;
+
+
+}
+.bbt {
+    margin:40px 40px;
+}
+
+ul li {
+    display: inline;
+    padding: 0px 80px;
+}
+.prods {
+    font-size:100px;
+}
+.prex {
+    width: 450px;
+}
+.bortext {
+    font-size:80%;
+    padding: 10px 200px;
+}
+.despri {
+    color:red;
+}
+.row2 {
+    background-color:rgb(154, 116, 116);
+    height:150px;
+}
